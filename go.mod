@@ -6,6 +6,7 @@ require github.com/gin-gonic/gin v1.7.7
 
 require (
 	github.com/cosmtrek/air v1.27.8 // indirect
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/gin-contrib/sse v0.1.0 // indirect
