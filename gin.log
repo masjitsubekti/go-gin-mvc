@@ -7,6 +7,3 @@
 [GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
 Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
 [GIN-debug] Listening and serving HTTP on :8080
-127.0.0.1 - [26 Dec 21 14:13 WIB] POST /videos 200 154.872µs 
-127.0.0.1 - [26 Dec 21 14:13 WIB] POST /videos 200 86.688µs 
-127.0.0.1 - [26 Dec 21 14:13 WIB] GET /videos 200 41.813µs 
