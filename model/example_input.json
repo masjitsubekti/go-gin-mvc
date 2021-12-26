@@ -1,0 +1,12 @@
+{
+    "title": "Belajar Golang Dasar 1",
+    "description": "Fundamental GO",
+    "url": "https://www.youtube.com/embed/sDJLQMZzzM4",
+		"actors" : 10,
+		"author" : {
+			"firstname" : "Ahmad",
+			"lastname" : "Maulana",
+			"age" : 21,
+			"email" : "ahmad@gmail.com"
+		}
+  }
