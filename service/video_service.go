@@ -12,6 +12,7 @@ type videoService struct {
 	videos []model.Video
 }
 
+// Constructor
 func New() VideoService {
 	return &videoService{}
 }
